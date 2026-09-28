@@ -1,0 +1,1 @@
+{"private":true,"scripts":{"logic":"node --test tests/*.test.cjs","browser":"node tests/browser.cjs","capture":"node tests/capture.cjs"},"devDependencies":{"playwright":"^1.62.1"}}
