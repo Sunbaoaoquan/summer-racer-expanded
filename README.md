@@ -2,9 +2,13 @@
 
 独立新版赛车游戏，保留 `summer-district` 与 `summer-racer` 原版目录不变。项目使用本地 Three.js、纹理和模型，默认面向桌面浏览器。
 
+## 在线试玩
+
+发布后可直接访问 [夏日疾走 · 山海之间](https://sunbaoaoquan.github.io/summer-racer-expanded/)。网页使用 HTTPS 提供游戏及项目随附素材，不依赖 `file://` 或第三方资源服务器。
+
 ## 启动
 
-安装 Python 3 后，在本目录运行：
+也可在本地运行。安装 Python 3 后，在本目录运行：
 
 ```text
 python serve.py --port 8770
