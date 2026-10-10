@@ -37,3 +37,7 @@ WASD 或方向键驾驶，空格漂移，Shift 氮气，R 救援，C 切换追�
 ## 素材
 
 来源和许可证见 [ASSETS.md](ASSETS.md)。Three.js、ambientCG 纹理和 Poly Haven 植物均随项目本地保存，运行时不请求第三方网站。
+
+## 开发 Skill
+
+本项目从参考图到 3D 场景、驾驶玩法及浏览器验收的工作方法，整理在 [image-to-3d-web-game Skill](skills/image-to-3d-web-game/SKILL.md)。在 Codex 中使用时，将 `skills/image-to-3d-web-game` 文件夹复制到用户技能目录，然后在任务中调用 `$image-to-3d-web-game`。
